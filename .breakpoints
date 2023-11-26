@@ -7,6 +7,14 @@
         "version": 410,
         "index": 0
       }
+    ],
+    "Day7/hangman.py": [
+      {
+        "id": "e8e934a4-957e-4e64-9ade-019bfc9cb997",
+        "line": 12,
+        "version": 97,
+        "index": 183
+      }
     ]
   }
 }
